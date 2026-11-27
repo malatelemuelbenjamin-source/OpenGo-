@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Local environment and tooling
+.env
+.env.*
+!.env.example
+*.local
+.vscode/
+.idea/
+*.tsbuildinfo
+
+# Logs and local dev server files
+*.log
+.dev-server.log
+.dev-server.pid
+
+# Dev screenshots and packaged deliverables
+artifacts/
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
